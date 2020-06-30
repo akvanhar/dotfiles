@@ -1,9 +1,11 @@
-# Richa’s dotfiles
+# Alyson's dotfiles
 
 These are the command-line setup and configuration files I use for all my computers, stored on Github for easier sharing between computers and with other people.
 
 ## Credits
 
+* Mostly all stolen from [Richa Avasthi](https://github.com/ravasthi/dotfiles).
+* Credits below are from Richa:
 * Inspired by dotfiles from [Ryan Bates](https://github.com/ryanb/dotfiles) and [thoughtbot](http://github.com/thoughtbot/dotfiles).
 * ~~Mostly stolen~~ Tweaked from [Matt’s dotfiles](https://github.com/mbrictson/dotfiles).
 * vim, tmux and zsh setup informed heavily by [Trae’s dotfiles](https://github.com/trobrock)
